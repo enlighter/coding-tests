@@ -1,0 +1,6 @@
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\bin\Debug\url-encode-test.exe.config
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\bin\Debug\url-encode-test.exe
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\bin\Debug\url-encode-test.pdb
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\obj\Debug\url-encode-test.csprojResolveAssemblyReference.cache
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\obj\Debug\url-encode-test.exe
+D:\OneDrive - Microsoft\code\coding-tests\cSharp-UrlEncode\url-encode-test\url-encode-test\obj\Debug\url-encode-test.pdb
